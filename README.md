@@ -7,7 +7,7 @@ With skills in Strategic Thinking, Positivity, Creativity, and Relationship Buil
 
 I am adept at using Excel, JDoodle, and SPSS. My personalized skill set, commitment to social justice, and passion for pop culture make me a valuable asset.  
 
-In my spare time, I like to play softball and discover new films. You can find me on [LinkedIn] (https://www.linkedin.com/in/katharine-pierlott​​).
+In my spare time, I like to play softball and discover new films. You can find me on [LinkedIn](https://www.linkedin.com/in/katharine-pierlott​​).
  
 
 ### Education 
