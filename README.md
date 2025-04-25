@@ -11,14 +11,15 @@ In my spare time, I like to play softball and discover new films. You can find m
  
 
 ### Education 
-BArts in [Communication and Media]
+BArts in Communication and Media
 Loyola University, MD
 
 ### Projects
 
 #### Excel Formulas and Functions
- - ![Anaylsis of Item Prices based on Discrete Profit Margins]
- - The problem I have set out to solve is how to evaluate data through formulas and using built in calculations. This problem needed to be solved because it allowed for me to have a visual understanding of my faux company. In addition, it allowed me to work on strengthening my Excel skills. The tools I used to complete this project were Excel and strategic thinking. In addition, I used my resources such as the internet, fellow students, and my professor. As someone being new to excel, I faced challenges surrounding how to apply formulas such as conditional formatting. However, through asking questions and trial and error, I was able to overcome this challenge. As I have previously mentioned, I also relied on my fellow classmates to guide me through the challenges I faced. Overall, I achieved my goal of creating a data set that would evaluate how my faux company was doing. I received a 10/10 for this assignment. If I had the chance to take this assignment further, I would evaluate my competitor data well. 
+ ![Alt text](images1/analysisofitem.png)
+
+ The problem I have set out to solve is how to evaluate data through formulas and using built in calculations. This problem needed to be solved because it allowed for me to have a visual understanding of my faux company. In addition, it allowed me to work on strengthening my Excel skills. The tools I used to complete this project were Excel and strategic thinking. In addition, I used my resources such as the internet, fellow students, and my professor. As someone being new to excel, I faced challenges surrounding how to apply formulas such as conditional formatting. However, through asking questions and trial and error, I was able to overcome this challenge. As I have previously mentioned, I also relied on my fellow classmates to guide me through the challenges I faced. Overall, I achieved my goal of creating a data set that would evaluate how my faux company was doing. I received a 10/10 for this assignment. If I had the chance to take this assignment further, I would evaluate my competitor data well. 
 
 ***
 #### JDoodle Personality Test
